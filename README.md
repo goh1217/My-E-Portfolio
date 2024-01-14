@@ -8,5 +8,5 @@
   From the poster we made about virtual talk 1,I learned basic principles of graphic design,such as layout,color theory.Learning to make a A4 poster and understand the format of a poster that include introduction,executive summary,content of those speaker and the reflection.I learned to extract useful content from what the speaker said and then reduce the content to a more concise form。<br><br>
   My suggestion for improving this assignment is i should enhance my poster design to make the poster more attractive and appealing.For examples,i could apply colour match and a more organize layout to increase readability and ensuring a polished appearance.<br><br>
 ## Reflection-ASSIGNMENT 3 Industry visit (UTM Digital)<br>
-
+  This Industry visit on UTM DIgital let me understand more about 
 ## Reflection-ASSIGNMENT 4 Virtual Talk 2<br>
