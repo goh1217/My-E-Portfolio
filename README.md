@@ -8,5 +8,7 @@
   From the poster we made about virtual talk 1,I learned basic principles of graphic design,such as layout,color theory.Learning to make a A4 poster and understand the format of a poster that include introduction,executive summary,content of those speaker and the reflection.I learned to extract useful content from what the speaker said and then reduce the content to a more concise form。<br><br>
   My suggestion for improving this assignment is i should enhance my poster design to make the poster more attractive and appealing.For examples,i could apply colour match and a more organize layout to increase readability and ensuring a polished appearance.<br><br>
 ## Reflection-ASSIGNMENT 3 Industry visit (UTM Digital)<br>
-  This Industry visit on UTM DIgital let me understand more about 
+  This Industry visit on UTM DIgital let me understand more about various ICT services that UTM Digital provide for clients and detail of those ICT services.Besides of that,I learned that different department in UTM Digital and their unique objective to provide great service.<br><br>
+  From the video we made about Industry visit,I learned the basics of video editing skill and shot techniques for better visual experiences to viewer on our video.Besides of that,I have mastered the skill of compressing relevant information from lengthy video content into concise 5-minute videos, focusing on key highlights and essential content for optimal simplicity and engagement<br><br>
+  My suggestion for improving this assignment is I should strengthen my video editing skills for visual appeal and ensure that it not only attracts viewers but also effectively conveys valuable information.
 ## Reflection-ASSIGNMENT 4 Virtual Talk 2<br>
