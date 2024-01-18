@@ -1,4 +1,4 @@
-!(https://github.com/goh1217/Assignment/blob/main/Image/ic%20picture.jpg)
+![https://github.com/goh1217/Assignment/blob/main/Image/ic%20picture.jpg]
 # Assignment
 ## Reflection-ASSIGNMENT 1 NALI 2023<br>
   The activity NALI 2023 experience was enlightening,shows me a glimpse into the future of education through technology. Presenters from the event always show us their product that aim to foster continuous improvement and innovation in educational practices. As technology continues to evolve, integrating these advancements into education will be key to preparing students for the challenges and opportunities of the future.For example,Encourage the development of more diverse learning tools and methods to suit different type of courses and learning styles.<br><br>
