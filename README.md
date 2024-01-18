@@ -42,8 +42,8 @@ Wish to become a decent programmer one day.
                     </picture>
                     </a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/goh1217/Assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=goh1217&repo=Assignment&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/goh1217/goh1217.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=goh1217&repo=goh1217.github.io&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 #Certificate & Achievement
-<a href="#" class="image fit"><img src="Image/spm result_page-0001.jpg" alt="" /></a><a href="#" class="image fit"><img src="Image/muet reslt (1)_page-0001.jpg" alt="" /></a>
-<a href="#" class="image fit"><img src="Image/academic transcript_page-0001 (1).jpg" alt="" /></a><a href="#" class="image fit"><img src="Image/spm result_page-0001.jpg" alt="" /></a>
+<a href="#" class="image fit" style="max-width: 450px; max-height: 300px"><img src="Image/spm result_page-0001.jpg" alt="" /></a><a href="#" class="image fit" style="max-width: 450px; max-height: 300px"><img src="Image/muet reslt (1)_page-0001.jpg" alt="" /></a>
+<a href="#" class="image fit" style="max-width: 450px; max-height: 300px"><img src="Image/academic transcript_page-0001 (1).jpg" alt="" /></a><a href="#" class="image fit" style="max-width: 450px; max-height: 300px"><img src="Image/spm result_page-0001.jpg" alt="" /></a>
 
 # Assignment
 ## Reflection-ASSIGNMENT 1 NALI 2023<br>
