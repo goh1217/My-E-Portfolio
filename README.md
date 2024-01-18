@@ -56,22 +56,6 @@ Wish to become a decent programmer one day.
 [![Image 4](Image/spm%20result_page-0001.jpg)](#)
 <img src="Image/spm%20result_page-0001.jpg" alt="Image 4" width="450" height="300">
 
-<a href="#" class="image fit" style="max-width: 400px; max-height: 200px">
-    <img src="Image/spm result_page-0001.jpg" alt="" />
-</a>
-
-<a href="#" class="image fit" style="max-width: 400px; max-height: 200px">
-    <img src="Image/muet reslt (1)_page-0001.jpg" alt="" />
-</a>
-
-<a href="#" class="image fit" style="max-width: 40px; max-height: 30px">
-    <img src="Image/academic transcript_page-0001 (1).jpg" alt="" />
-</a>
-
-<a href="#" class="image fit" style="max-width: 40px; max-height: 30px">
-    <img src="Image/utm degree offer_page-0001.jpg" alt="" />
-</a>
-
 
 # Assignment
 ## Reflection-ASSIGNMENT 1 NALI 2023<br>
