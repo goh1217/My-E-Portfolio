@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is GOH CHANG ZHE
 =====================================================================================================================================
 
-UTM 1st bachelor of computer science(Software Engineering) student.
+UTM 1st year bachelor of computer science(Software Engineering) student.
 -------------------------------------------------------------------
 
 Wish to become a decent programmer one day.
