@@ -80,5 +80,9 @@ Wish to become a decent programmer one day.
   ## Reflection on PC Assemble<br>
   From this activity,our group able to assemble and reassemble PC with our own hand with lecturer's instruction and our teamwork.Its a good learning opportunity for us because it involves understanding various components such as the motherboard, CPU, RAM, GPU, storage, power supply, and cooling systems. This hands-on experience deepens your understanding of how these parts function together.Further more,those knowledge is nessecary for us to enhancing troubleshooting skills, understanding system architecture, and fostering customization abilities. It also promotes cost-effective resource allocation because PC provide cost effective manner comparing to laptop.<br><br>
   ## Reflection on Design thinking<br>
+  My goal from learning this course is to try my best to learn about technology and information systems within this limited time, and then effectively use this knowledge to improve your own level and career. Compared with other subjects, this subject focuses more on completing assignments and communicating with team members, and these abilities will be of great help to our careers in the future.<br><br>
+From this project, I learned how to use the Internet to conduct surveys, understand user needs, and how to track progress and complete projects in a planned way. This knowledge will lay a solid foundation for my career and bring me closer to my goals.<br><br>
+In order to maximize my potential, I will be more active in learning various IT knowledge, participating in various projects, observing the needs of people around me, and creating the best projects to solve people's needs.
+
   
   
