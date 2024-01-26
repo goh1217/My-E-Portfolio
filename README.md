@@ -8,7 +8,7 @@ UTM 1st year bachelor of computer science(Software Engineering) student.
 Wish to become a decent programmer one day.
 
 *   🌍  I'm based in Johor Bahru,Johor,Malaysia
-*   🖥️  See my portfolio at [This link](http://goh1217.github.io/)
+*   🖥️  See my portfolio website at [This link](http://goh1217.github.io/)
 *   ✉️  You can contact me at [changzheg@gmail.com](mailto:changzheg@gmail.com)
 *   🧠  I'm learning JAVASCRIPT
 *   🤝  I'm open to collaborating on any project or assignment.
