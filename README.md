@@ -82,7 +82,8 @@ Wish to become a decent programmer one day.
   ## Reflection on Design thinking<br>
   My goal from learning this course is to try my best to learn about technology and information systems within this limited time, and then effectively use this knowledge to improve your own level and career. Compared with other subjects, this subject focuses more on completing assignments and communicating with team members, and these abilities will be of great help to our careers in the future.<br><br>
 From this project, I learned how to use the Internet to conduct surveys, understand user needs, and how to track progress and complete projects in a planned way. This knowledge will lay a solid foundation for my career and bring me closer to my goals.<br><br>
-In order to maximize my potential, I will be more active in learning various IT knowledge, participating in various projects, observing the needs of people around me, and creating the best projects to solve people's needs.
+In order to maximize my potential, I will be more active in learning various IT knowledge, participating in various projects, observing the needs of people around me, and creating the best projects to solve people's needs.<br><br>
+My suggestion for improving this project is our group should create a higher quality prototype to increase feasibility.Besides of that,we can conduct various survey through more channel or platform,for example visiting users in person to understand needs.
 
   
   
