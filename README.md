@@ -1,4 +1,4 @@
-<img src="Image/ic picture.jpg" alt="Image 4" width="400" height="500"><br>
+<img src="Image/ic picture.jpg" alt="Image 4" width="380" height="500"><br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is GOH CHANG ZHE(A23CS0225)
 ================================================================================================================================================
 
